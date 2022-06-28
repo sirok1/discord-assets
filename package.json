@@ -1,0 +1,27 @@
+{
+  "name": "discord-assets",
+  "version": "1.2.0",
+  "description": "a module which provide an assets for discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirok1/Memories-images.git"
+  },
+  "keywords": [
+    "discrod",
+    "bot",
+    "discordbot",
+    "images",
+    "anime",
+    "discord-anime"
+  ],
+  "author": "sirok",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sirok1/Memories-images/issues"
+  },
+  "homepage": "https://github.com/sirok1/Memories-images#readme"
+}
