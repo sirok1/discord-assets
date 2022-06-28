@@ -1,4 +1,4 @@
-# Discord-assets
+# discord-assets
  a module which provide an assets for discord bot
 # Installing
 ```bash
