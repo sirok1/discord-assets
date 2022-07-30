@@ -1,4 +1,16 @@
 # discord-assets
+<div align = "center">
+  <p>
+    <a href="https://github.com/sirok1">
+      <img src="https://res.cloudinary.com/hxsqjtxdf/image/upload/v1655210108/watermark_poeyn7.png">
+    </a>
+  </p>
+  </div>
+<div align="left">
+  <p>
+   discord public bot Memories
+ </p>
+</div>
  a module which provide an assets for discord bot
 # Installing
 ```bash
