@@ -175,7 +175,7 @@ returns a thematic gif image
 
 example:
 
-![notnsfwgif](https://cdn.discordapp.com/attachments/901265259514462238/901267625357750342/animation14.gif.gif)
+![ngif](https://media1.giphy.com/media/jleNxE9BsJVO8/giphy.gif?cid=790b76110c5d1e0dcf8f583bcba645783a82ed57a167d0f2&rid=giphy.gif&ct=g)
 
 # sad
 returns a thematic gif image
