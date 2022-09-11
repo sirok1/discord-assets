@@ -275,7 +275,7 @@ returns a thematic gif image
 
 example:
 
-![dancegif](https://c.tenor.com/2vRn7mgoMRMAAAAd/cute-anime-dance.gif)
+![dancegif](https://c.tenor.com/_RIpPvlGgJcAAAAC/another-dance.gif)
 
 # cry
 returns a thematic gif image
