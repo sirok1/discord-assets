@@ -40,16 +40,16 @@ npm i discord-assets
 - [pat](#pat)
 - [marry](#marry)
 - [love](#love)
-- lick
-- kiss
-- kill
-- hug
-- getLost
-- eat
-- drink
-- dance
-- cry
-- avatar
+- [lick](#lick)
+- [kiss](#kiss)
+- [kill](#kill)
+- [hug](#hug)
+- [getLost](#getlost)
+- [eat](#eat)
+- [drink](#drink)
+- [dance](#dance)
+- [cry](#cry)
+- [avatar](#avatar)
 
 # Example
 ```js
