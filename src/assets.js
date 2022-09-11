@@ -18,7 +18,7 @@ class Assets {
       "shy",
       "shock",
       "shiz",
-      "sex",
+      "vulgarity",
       "sad",
       "run",
       "poke",
@@ -29,7 +29,7 @@ class Assets {
       "kiss",
       "kill",
       "hug",
-      "fucku",
+      "getLost",
       "eat",
       "drink",
       "dance",
@@ -267,20 +267,6 @@ class Assets {
     const picture = cats[Math.floor(Math.random() * cats.length)];
     return picture;
   }
-  suicide() {
-    let gif = [
-      "https://c.tenor.com/WZ2FaJkLXgcAAAAC/naomi-misora.gif",
-      "https://c.tenor.com/EvqygcHxejAAAAAC/anime-suicide.gif",
-      "https://cdn.discordapp.com/attachments/793452373077917728/899109977929699368/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f.gif",
-      "https://cdn.discordapp.com/attachments/793452373077917728/899109981012504576/F5Ai.gif",
-      "https://cdn.discordapp.com/attachments/793452373077917728/899110636569628732/LxmT.gif",
-      "https://cdn.discordapp.com/attachments/793452373077917728/899110642642997298/1.gif",
-      "https://cdn.discordapp.com/attachments/793452373077917728/899110648607293450/880cf9376f466b01279ea39a967e13d6.gif",
-      "https://c.tenor.com/5N05gtF_R5wAAAAd/ssss-gridman-suicide-anime.gif",
-    ];
-    const picture = gif[Math.floor(Math.random() * gif.length)];
-    return picture;
-  }
   spit() {
     let gif = [
       "https://c.tenor.com/i1eM2uaS9BoAAAAC/tea-blushing.gif",
@@ -413,7 +399,7 @@ class Assets {
     const picture = gif[Math.floor(Math.random() * gif.length)];
     return picture;
   }
-  sex() {
+  vulgarity() {
     let gif = [
       "https://c.tenor.com/9G1zsVIiV6UAAAAC/anime-bed.gif",
       "https://media4.giphy.com/media/wR4mJKi952FA4/giphy.gif?cid=790b7611ffe64489865bc4976d4ee1e743f4c6a87647f132&rid=giphy.gif&ct=g",
@@ -617,7 +603,7 @@ class Assets {
     const picture = gif[Math.floor(Math.random() * gif.length)];
     return picture;
   }
-  fucku() {
+  getLost() {
     let gif = [
       "https://c.tenor.com/0CrbRX_WsMkAAAAC/anime-animu.gif",
       "https://c.tenor.com/-C3719OzSXQAAAAC/manga-anime.gif",
